@@ -19,7 +19,7 @@ Para escribir documentos LaTeX se requiere una distribución de LaTeX y un IDE o
   * En MacOS [MacTex](https://tug.org/mactex/)
   * En Linux instalar [TeXLive](https://tug.org/texlive/)
 
-* Debemos tener un editor de textos, para excribir escribir texto plano. O en su defecto un software amigable específico para LaTeX, es decir, un auténtico IDE para $\LaTeX{}$:
+* Debemos tener un editor de textos, para excribir escribir texto plano. O en su defecto un software amigable específico para LaTeX, es decir, un auténtico IDE para **LaTeX**:
   * [TeXMaker](https://www.xm1math.net/texmaker/) 
   * [TexStudio](https://www.texstudio.org/)
   * [Kile](https://kile.sourceforge.io/)
