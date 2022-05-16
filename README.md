@@ -1,3 +1,7 @@
+kramdown:
+  input: GFM
+  math_engine: mathjax # you can also set this field to 'katex'
+  
 # Taller-LaTeX
 Algunos recursos para trabajar en el taller de latex del itspa 2022.
 
@@ -24,10 +28,14 @@ Para escribir documentos LaTeX se requiere:
   * [TexStudio](https://www.texstudio.org/)
   * [Kile](https://kile.sourceforge.io/)
   * [TeXnicCenter](https://www.texniccenter.org/)
-## Rcursos
+  * [WinShell](http://www.winshell.de/)
+ 
+## Documentación
 Puedes descargar algunos libros y guías en el proyecto [OpenLibra](https://openlibra.com/es/collection/search/term/latex). 
 
 También existe [La introducción no tan corta a LaTeX](http://zelmanov.ptep-online.com/ctan/lshort_spanish.pdf)
+
+
 
 
 
