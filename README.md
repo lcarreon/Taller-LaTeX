@@ -1,5 +1,5 @@
 # Taller de LaTeX
-Algunos recursos para trabajar en el taller de latex del itspa 2022.
+Algunos recursos para trabajar en el taller de LaTeX del ITSPA, en el marco del FLISOL 2022.
 
 ## Introducción
 De acuerdo con su página oficial [Proyecto-LaTeX](https://www.latex-project.org/), "LaTeX es un sistema de composición tipográfica de alta calidad; incluye características diseñadas para la producción de documentación técnica y científica. LaTeX es el estándar de facto para la comunicación y publicación de documentos científicos"
