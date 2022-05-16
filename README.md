@@ -13,23 +13,29 @@ LaTeX es software libre, creado por LaTeX está formado por un gran conjunto de 
 
 ## Instalación
 
-Para escribir documentos LaTeX se requiere:
+Para escribir documentos LaTeX se requiere una distribución de LaTeX y un IDE o editor de textos.
 * Tener una distribución instalada en su computadora que consiste en un compilador y bibliotecas o paquetes con funciones específicas 
   * En windows [MiKTex](https://miktex.org/download)
   * En MacOS [MacTex](https://tug.org/mactex/)
   * En Linux instalar [TeXLive](https://tug.org/texlive/)
 
-* Debemos tener un editor de textos, para excribir escribir texto plano. O en su defecto un software amigable específico para LaTeX, es decir, un auténtico IDE para $\LaTeX$:
+* Debemos tener un editor de textos, para excribir escribir texto plano. O en su defecto un software amigable específico para LaTeX, es decir, un auténtico IDE para $\LaTeX{}$:
   * [TeXMaker](https://www.xm1math.net/texmaker/) 
   * [TexStudio](https://www.texstudio.org/)
   * [Kile](https://kile.sourceforge.io/)
   * [TeXnicCenter](https://www.texniccenter.org/)
   * [WinShell](http://www.winshell.de/)
+
+¡Y ya podremos comanzar!
  
 ## Documentación
+Quizás pueda ser motivador leer este texto como introducción [LaTeX vs Word](https://github.com/lcarreon/Taller-LaTeX/blob/main/LaTeX%20vs%20Word.md)
 Puedes descargar algunos libros y guías en el proyecto [OpenLibra](https://openlibra.com/es/collection/search/term/latex). 
 
-También existe [La introducción no tan corta a LaTeX](http://zelmanov.ptep-online.com/ctan/lshort_spanish.pdf)
+También existe [La introducción no tan corta a LaTeX](http://zelmanov.ptep-online.com/ctan/lshort_spanish.pdf).
+
+Un [Wiki-Libro](https://en.wikibooks.org/wiki/LaTeX) en inglés.
+
 
 
 
