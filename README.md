@@ -1,8 +1,4 @@
-kramdown:
-  input: GFM
-  math_engine: mathjax # you can also set this field to 'katex'
-  
-# Taller-LaTeX
+# Taller de LaTeX
 Algunos recursos para trabajar en el taller de latex del itspa 2022.
 
 ## Introducción
