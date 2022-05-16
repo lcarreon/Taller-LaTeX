@@ -4,7 +4,7 @@ Algunos recursos para trabajar en el taller de latex del itspa 2022.
 ## Introducción
 De acuerdo con su página oficial [Proyecto-LaTeX](https://www.latex-project.org/), "LaTeX es un sistema de composición tipográfica de alta calidad; incluye características diseñadas para la producción de documentación técnica y científica. LaTeX es el estándar de facto para la comunicación y publicación de documentos científicos"
 
-LaTeX es software libre, creado por LaTeX está formado por un gran conjunto de macros de **TeX**, escrito por Leslie Lamport en 1984, con la intención de facilitar el uso del lenguaje de composición tipográfica, **TeX**, creado por Donald Knuth.
+**LaTeX** es software libre, está formado por un gran conjunto de macros de **TeX**, escrito por Leslie Lamport en 1984, con la intención de facilitar el uso del lenguaje de composición tipográfica, **TeX**, creado por Donald Knuth.
 
 ## Objetivos generales
 * Conocer el editor TexStudio para escribir documentos LaTeX mediante la aplicación de comandos o etiquetas fundamentales. 
@@ -35,9 +35,3 @@ Puedes descargar algunos libros y guías en el proyecto [OpenLibra](https://open
 También existe [La introducción no tan corta a LaTeX](http://zelmanov.ptep-online.com/ctan/lshort_spanish.pdf).
 
 Un [Wiki-Libro](https://en.wikibooks.org/wiki/LaTeX) en inglés.
-
-
-
-
-
-
