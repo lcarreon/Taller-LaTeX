@@ -7,8 +7,8 @@ De acuerdo con su página oficial [Proyecto-LaTeX](https://www.latex-project.org
 **LaTeX** es software libre, está formado por un gran conjunto de macros de **TeX**, escrito por Leslie Lamport en 1984, con la intención de facilitar el uso del lenguaje de composición tipográfica, **TeX**, creado por Donald Knuth.
 
 ## Objetivos generales
-* Conocer el editor TexStudio para escribir documentos LaTeX mediante la aplicación de comandos o etiquetas fundamentales. 
-* Elaborar documentos tipo artículos y maquetarlos utilizando diferentes etiquetas.
+* Conocer el editor TexStudio para escribir documentos LaTeX mediante el uso de paquetes con funciones o comandos fundamentales. 
+* Elaborar documentos tipo artículos y lbros, maquetarlos utilizando diferentes paquetes.
 * Construir la bibliografía de artículos científicos en el formato correspondiente. 
 
 ## Instalación
@@ -19,7 +19,7 @@ Para escribir documentos LaTeX se requiere una distribución de LaTeX y un IDE o
   * En MacOS [MacTex](https://tug.org/mactex/)
   * En Linux instalar [TeXLive](https://tug.org/texlive/)
 
-* Debemos tener un editor de textos, para excribir escribir texto plano. O en su defecto un software amigable específico para LaTeX, es decir, un auténtico IDE para **LaTeX**:
+* Debemos tener un editor de textos, para escribir texto plano. O en su defecto un software amigable específico para LaTeX, es decir, un IDE (Entorno de Desarrollo Integrado) para **LaTeX**:
   * [TeXMaker](https://www.xm1math.net/texmaker/) 
   * [TexStudio](https://www.texstudio.org/)
   * [Kile](https://kile.sourceforge.io/)
